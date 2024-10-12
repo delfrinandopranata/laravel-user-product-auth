@@ -1,0 +1,21 @@
+/**
+* file: style.css
+* @author: Delfrinando Pranata<delfrinando@gmail.com>
+*/
+
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+.app-container {
+    margin-top: 1%;
+}
+
+.center {
+    margin: 0;
+    text-align: center;
+}
+
+.feature-list li {
+    text-align: left!important;
+}
